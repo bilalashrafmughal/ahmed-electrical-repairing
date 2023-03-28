@@ -1,0 +1,2 @@
+1. Needs to get logo
+2. Set logo in favicon
